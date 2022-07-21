@@ -3,6 +3,6 @@ import pandas
 pandas.options.display.max_columns = None
 pandas.options.display.max_rows = None
 
-basketball_draft_data = pandas.read_csv("basketball_draft.csv")
+covid_2020_data = pandas.read_csv("covid19_countrywise_Data.csv")
 
-print(basketball_draft_data)
+print(covid_2020_data)
