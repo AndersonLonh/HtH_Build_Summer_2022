@@ -17,6 +17,6 @@ No. | Question
 5 | Does the amount of resources a specific country have affect the amount of death occuring?
 6 | Does the amount of death affect which country recieves the vaccine first?
 7 | How does the vaccine affect the coronavirus and its deaths?
-8 | What is the probabilit of catching covid and dying?
+8 | What is the probability of catching covid and dying?
 9 | Does a specific temperature affect catching covid?
 10 | What has helped people survived covid?
